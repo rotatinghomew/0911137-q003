@@ -11,7 +11,7 @@
   "ticket_id": "t000",
   "case_id": "case0",
   "product_line": "服饰",
-  "text": "物流相关售后记录 0",
+  "text": "描述不符相关售后记录 0",
   "created_at": 1
 }
 ```
@@ -53,7 +53,7 @@
 ```json
 {
   "ticket_id": "t000",
-  "label": "物流",
+  "label": "描述不符",
   "reviewed_at": 2
 }
 ```
