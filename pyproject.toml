@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools==75.8.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "label-workbench"
+version = "0.1.0"
+description = "售后归因标注台"
+requires-python = ">=3.11,<3.12"
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["label_workbench*"]
+
+[tool.unittest]
+start-directory = "tests"
