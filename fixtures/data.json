@@ -16,55 +16,55 @@
         "ticket_id": "t000",
         "case_id": "case0",
         "product_line": "服饰",
-        "text": "物流相关售后记录 0",
+        "text": "描述不符相关售后记录 0",
         "created_at": 1
       },
       {
         "ticket_id": "t001",
         "case_id": "case0",
-        "product_line": "家居",
-        "text": "质量相关售后记录 0",
+        "product_line": "服饰",
+        "text": "描述不符相关售后记录 0",
         "created_at": 2
       },
       {
         "ticket_id": "t002",
         "case_id": "case1",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 1",
+        "text": "质量相关售后记录 1",
         "created_at": 3
       },
       {
         "ticket_id": "t003",
         "case_id": "case1",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 1",
+        "product_line": "家居",
+        "text": "质量相关售后记录 1",
         "created_at": 4
       },
       {
         "ticket_id": "t004",
         "case_id": "case2",
         "product_line": "家居",
-        "text": "质量相关售后记录 2",
+        "text": "物流相关售后记录 2",
         "created_at": 5
       },
       {
         "ticket_id": "t005",
         "case_id": "case2",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 2",
+        "text": "物流相关售后记录 2",
         "created_at": 6
       },
       {
         "ticket_id": "t006",
         "case_id": "case3",
         "product_line": "服饰",
-        "text": "物流相关售后记录 3",
+        "text": "质量相关售后记录 3",
         "created_at": 7
       },
       {
         "ticket_id": "t007",
         "case_id": "case3",
-        "product_line": "家居",
+        "product_line": "服饰",
         "text": "质量相关售后记录 3",
         "created_at": 8
       },
@@ -72,13 +72,13 @@
         "ticket_id": "t008",
         "case_id": "case4",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 4",
+        "text": "物流相关售后记录 4",
         "created_at": 9
       },
       {
         "ticket_id": "t009",
         "case_id": "case4",
-        "product_line": "服饰",
+        "product_line": "家居",
         "text": "物流相关售后记录 4",
         "created_at": 10
       },
@@ -93,7 +93,7 @@
         "ticket_id": "t011",
         "case_id": "case5",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 5",
+        "text": "质量相关售后记录 5",
         "created_at": 12
       },
       {
@@ -106,49 +106,49 @@
       {
         "ticket_id": "t013",
         "case_id": "case6",
-        "product_line": "家居",
-        "text": "质量相关售后记录 6",
+        "product_line": "服饰",
+        "text": "物流相关售后记录 6",
         "created_at": 14
       },
       {
         "ticket_id": "t014",
         "case_id": "case7",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 7",
+        "text": "质量相关售后记录 7",
         "created_at": 15
       },
       {
         "ticket_id": "t015",
         "case_id": "case7",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 7",
+        "product_line": "家居",
+        "text": "质量相关售后记录 7",
         "created_at": 16
       },
       {
         "ticket_id": "t016",
         "case_id": "case8",
         "product_line": "家居",
-        "text": "质量相关售后记录 8",
+        "text": "物流相关售后记录 8",
         "created_at": 17
       },
       {
         "ticket_id": "t017",
         "case_id": "case8",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 8",
+        "text": "物流相关售后记录 8",
         "created_at": 18
       },
       {
         "ticket_id": "t018",
         "case_id": "case9",
         "product_line": "服饰",
-        "text": "物流相关售后记录 9",
+        "text": "质量相关售后记录 9",
         "created_at": 19
       },
       {
         "ticket_id": "t019",
         "case_id": "case9",
-        "product_line": "家居",
+        "product_line": "服饰",
         "text": "质量相关售后记录 9",
         "created_at": 20
       },
@@ -156,13 +156,13 @@
         "ticket_id": "t020",
         "case_id": "case10",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 10",
+        "text": "物流相关售后记录 10",
         "created_at": 21
       },
       {
         "ticket_id": "t021",
         "case_id": "case10",
-        "product_line": "服饰",
+        "product_line": "家居",
         "text": "物流相关售后记录 10",
         "created_at": 22
       },
@@ -170,7 +170,7 @@
         "ticket_id": "t022",
         "case_id": "case11",
         "product_line": "家居",
-        "text": "质量相关售后记录 11",
+        "text": "描述不符相关售后记录 11",
         "created_at": 23
       },
       {
@@ -190,49 +190,49 @@
       {
         "ticket_id": "t025",
         "case_id": "case12",
-        "product_line": "家居",
-        "text": "质量相关售后记录 12",
+        "product_line": "服饰",
+        "text": "物流相关售后记录 12",
         "created_at": 26
       },
       {
         "ticket_id": "t026",
         "case_id": "case13",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 13",
+        "text": "质量相关售后记录 13",
         "created_at": 27
       },
       {
         "ticket_id": "t027",
         "case_id": "case13",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 13",
+        "product_line": "家居",
+        "text": "质量相关售后记录 13",
         "created_at": 28
       },
       {
         "ticket_id": "t028",
         "case_id": "case14",
         "product_line": "家居",
-        "text": "质量相关售后记录 14",
+        "text": "物流相关售后记录 14",
         "created_at": 29
       },
       {
         "ticket_id": "t029",
         "case_id": "case14",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 14",
+        "text": "物流相关售后记录 14",
         "created_at": 30
       },
       {
         "ticket_id": "t030",
         "case_id": "case15",
         "product_line": "服饰",
-        "text": "物流相关售后记录 15",
+        "text": "质量相关售后记录 15",
         "created_at": 1
       },
       {
         "ticket_id": "t031",
         "case_id": "case15",
-        "product_line": "家居",
+        "product_line": "服饰",
         "text": "质量相关售后记录 15",
         "created_at": 2
       },
@@ -240,13 +240,13 @@
         "ticket_id": "t032",
         "case_id": "case16",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 16",
+        "text": "物流相关售后记录 16",
         "created_at": 3
       },
       {
         "ticket_id": "t033",
         "case_id": "case16",
-        "product_line": "服饰",
+        "product_line": "家居",
         "text": "物流相关售后记录 16",
         "created_at": 4
       },
@@ -261,7 +261,7 @@
         "ticket_id": "t035",
         "case_id": "case17",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 17",
+        "text": "质量相关售后记录 17",
         "created_at": 6
       },
       {
@@ -274,49 +274,49 @@
       {
         "ticket_id": "t037",
         "case_id": "case18",
-        "product_line": "家居",
-        "text": "质量相关售后记录 18",
+        "product_line": "服饰",
+        "text": "物流相关售后记录 18",
         "created_at": 8
       },
       {
         "ticket_id": "t038",
         "case_id": "case19",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 19",
+        "text": "质量相关售后记录 19",
         "created_at": 9
       },
       {
         "ticket_id": "t039",
         "case_id": "case19",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 19",
+        "product_line": "家居",
+        "text": "质量相关售后记录 19",
         "created_at": 10
       },
       {
         "ticket_id": "t040",
         "case_id": "case20",
         "product_line": "家居",
-        "text": "质量相关售后记录 20",
+        "text": "物流相关售后记录 20",
         "created_at": 11
       },
       {
         "ticket_id": "t041",
         "case_id": "case20",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 20",
+        "text": "物流相关售后记录 20",
         "created_at": 12
       },
       {
         "ticket_id": "t042",
         "case_id": "case21",
         "product_line": "服饰",
-        "text": "物流相关售后记录 21",
+        "text": "质量相关售后记录 21",
         "created_at": 13
       },
       {
         "ticket_id": "t043",
         "case_id": "case21",
-        "product_line": "家居",
+        "product_line": "服饰",
         "text": "质量相关售后记录 21",
         "created_at": 14
       },
@@ -330,8 +330,8 @@
       {
         "ticket_id": "t045",
         "case_id": "case22",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 22",
+        "product_line": "家居",
+        "text": "描述不符相关售后记录 22",
         "created_at": 16
       },
       {
@@ -345,7 +345,7 @@
         "ticket_id": "t047",
         "case_id": "case23",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 23",
+        "text": "质量相关售后记录 23",
         "created_at": 18
       },
       {
@@ -358,49 +358,49 @@
       {
         "ticket_id": "t049",
         "case_id": "case24",
-        "product_line": "家居",
-        "text": "质量相关售后记录 24",
+        "product_line": "服饰",
+        "text": "物流相关售后记录 24",
         "created_at": 20
       },
       {
         "ticket_id": "t050",
         "case_id": "case25",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 25",
+        "text": "质量相关售后记录 25",
         "created_at": 21
       },
       {
         "ticket_id": "t051",
         "case_id": "case25",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 25",
+        "product_line": "家居",
+        "text": "质量相关售后记录 25",
         "created_at": 22
       },
       {
         "ticket_id": "t052",
         "case_id": "case26",
         "product_line": "家居",
-        "text": "质量相关售后记录 26",
+        "text": "物流相关售后记录 26",
         "created_at": 23
       },
       {
         "ticket_id": "t053",
         "case_id": "case26",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 26",
+        "text": "物流相关售后记录 26",
         "created_at": 24
       },
       {
         "ticket_id": "t054",
         "case_id": "case27",
         "product_line": "服饰",
-        "text": "物流相关售后记录 27",
+        "text": "质量相关售后记录 27",
         "created_at": 25
       },
       {
         "ticket_id": "t055",
         "case_id": "case27",
-        "product_line": "家居",
+        "product_line": "服饰",
         "text": "质量相关售后记录 27",
         "created_at": 26
       },
@@ -408,13 +408,13 @@
         "ticket_id": "t056",
         "case_id": "case28",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 28",
+        "text": "物流相关售后记录 28",
         "created_at": 27
       },
       {
         "ticket_id": "t057",
         "case_id": "case28",
-        "product_line": "服饰",
+        "product_line": "家居",
         "text": "物流相关售后记录 28",
         "created_at": 28
       },
@@ -429,7 +429,7 @@
         "ticket_id": "t059",
         "case_id": "case29",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 29",
+        "text": "质量相关售后记录 29",
         "created_at": 30
       },
       {
@@ -442,63 +442,63 @@
       {
         "ticket_id": "t061",
         "case_id": "case30",
-        "product_line": "家居",
-        "text": "质量相关售后记录 30",
+        "product_line": "服饰",
+        "text": "物流相关售后记录 30",
         "created_at": 2
       },
       {
         "ticket_id": "t062",
         "case_id": "case31",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 31",
+        "text": "质量相关售后记录 31",
         "created_at": 3
       },
       {
         "ticket_id": "t063",
         "case_id": "case31",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 31",
+        "product_line": "家居",
+        "text": "质量相关售后记录 31",
         "created_at": 4
       },
       {
         "ticket_id": "t064",
         "case_id": "case32",
         "product_line": "家居",
-        "text": "质量相关售后记录 32",
+        "text": "物流相关售后记录 32",
         "created_at": 5
       },
       {
         "ticket_id": "t065",
         "case_id": "case32",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 32",
+        "text": "物流相关售后记录 32",
         "created_at": 6
       },
       {
         "ticket_id": "t066",
         "case_id": "case33",
         "product_line": "服饰",
-        "text": "物流相关售后记录 33",
+        "text": "描述不符相关售后记录 33",
         "created_at": 7
       },
       {
         "ticket_id": "t067",
         "case_id": "case33",
-        "product_line": "家居",
-        "text": "质量相关售后记录 33",
+        "product_line": "服饰",
+        "text": "描述不符相关售后记录 33",
         "created_at": 8
       },
       {
         "ticket_id": "t068",
         "case_id": "case34",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 34",
+        "text": "物流相关售后记录 34",
         "created_at": 9
       },
       {
         "ticket_id": "t069",
         "case_id": "case34",
-        "product_line": "服饰",
+        "product_line": "家居",
         "text": "物流相关售后记录 34",
         "created_at": 10
       },
@@ -513,7 +513,7 @@
         "ticket_id": "t071",
         "case_id": "case35",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 35",
+        "text": "质量相关售后记录 35",
         "created_at": 12
       },
       {
@@ -526,49 +526,49 @@
       {
         "ticket_id": "t073",
         "case_id": "case36",
-        "product_line": "家居",
-        "text": "质量相关售后记录 36",
+        "product_line": "服饰",
+        "text": "物流相关售后记录 36",
         "created_at": 14
       },
       {
         "ticket_id": "t074",
         "case_id": "case37",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 37",
+        "text": "质量相关售后记录 37",
         "created_at": 15
       },
       {
         "ticket_id": "t075",
         "case_id": "case37",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 37",
+        "product_line": "家居",
+        "text": "质量相关售后记录 37",
         "created_at": 16
       },
       {
         "ticket_id": "t076",
         "case_id": "case38",
         "product_line": "家居",
-        "text": "质量相关售后记录 38",
+        "text": "物流相关售后记录 38",
         "created_at": 17
       },
       {
         "ticket_id": "t077",
         "case_id": "case38",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 38",
+        "text": "物流相关售后记录 38",
         "created_at": 18
       },
       {
         "ticket_id": "t078",
         "case_id": "case39",
         "product_line": "服饰",
-        "text": "物流相关售后记录 39",
+        "text": "质量相关售后记录 39",
         "created_at": 19
       },
       {
         "ticket_id": "t079",
         "case_id": "case39",
-        "product_line": "家居",
+        "product_line": "服饰",
         "text": "质量相关售后记录 39",
         "created_at": 20
       },
@@ -576,13 +576,13 @@
         "ticket_id": "t080",
         "case_id": "case40",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 40",
+        "text": "物流相关售后记录 40",
         "created_at": 21
       },
       {
         "ticket_id": "t081",
         "case_id": "case40",
-        "product_line": "服饰",
+        "product_line": "家居",
         "text": "物流相关售后记录 40",
         "created_at": 22
       },
@@ -597,7 +597,7 @@
         "ticket_id": "t083",
         "case_id": "case41",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 41",
+        "text": "质量相关售后记录 41",
         "created_at": 24
       },
       {
@@ -610,29 +610,29 @@
       {
         "ticket_id": "t085",
         "case_id": "case42",
-        "product_line": "家居",
-        "text": "质量相关售后记录 42",
+        "product_line": "服饰",
+        "text": "物流相关售后记录 42",
         "created_at": 26
       },
       {
         "ticket_id": "t086",
         "case_id": "case43",
         "product_line": "家居",
-        "text": "描述不符相关售后记录 43",
+        "text": "质量相关售后记录 43",
         "created_at": 27
       },
       {
         "ticket_id": "t087",
         "case_id": "case43",
-        "product_line": "服饰",
-        "text": "物流相关售后记录 43",
+        "product_line": "家居",
+        "text": "质量相关售后记录 43",
         "created_at": 28
       },
       {
         "ticket_id": "t088",
         "case_id": "case44",
         "product_line": "家居",
-        "text": "质量相关售后记录 44",
+        "text": "描述不符相关售后记录 44",
         "created_at": 29
       },
       {
@@ -683,42 +683,42 @@
         "ticket_id": "t001",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 2
       },
       {
         "ticket_id": "t001",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 2
       },
       {
         "ticket_id": "t001",
         "source": "s2",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 2
       },
       {
         "ticket_id": "t001",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 2
       },
       {
         "ticket_id": "t001",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 2
       },
       {
         "ticket_id": "t002",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 3
       },
       {
@@ -732,28 +732,28 @@
         "ticket_id": "t002",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 3
       },
       {
         "ticket_id": "t002",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 3
       },
       {
         "ticket_id": "t002",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 3
       },
       {
         "ticket_id": "t003",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 4
       },
       {
@@ -767,7 +767,7 @@
         "ticket_id": "t003",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 4
       },
       {
@@ -788,77 +788,77 @@
         "ticket_id": "t004",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 5
       },
       {
         "ticket_id": "t004",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 5
       },
       {
         "ticket_id": "t004",
         "source": "s2",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 5
       },
       {
         "ticket_id": "t004",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 5
       },
       {
         "ticket_id": "t004",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 5
       },
       {
         "ticket_id": "t005",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 6
       },
       {
         "ticket_id": "t005",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 6
       },
       {
         "ticket_id": "t005",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 6
       },
       {
         "ticket_id": "t005",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 6
       },
       {
         "ticket_id": "t005",
         "source": "s4",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 6
       },
       {
         "ticket_id": "t006",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 7
       },
       {
@@ -872,7 +872,7 @@
         "ticket_id": "t006",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 7
       },
       {
@@ -928,35 +928,35 @@
         "ticket_id": "t008",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 9
       },
       {
         "ticket_id": "t008",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 9
       },
       {
         "ticket_id": "t008",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 9
       },
       {
         "ticket_id": "t008",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 9
       },
       {
         "ticket_id": "t008",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 9
       },
       {
@@ -970,7 +970,7 @@
         "ticket_id": "t009",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 10
       },
       {
@@ -1033,35 +1033,35 @@
         "ticket_id": "t011",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 12
       },
       {
         "ticket_id": "t011",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 12
       },
       {
         "ticket_id": "t011",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 12
       },
       {
         "ticket_id": "t011",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 12
       },
       {
         "ticket_id": "t011",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 12
       },
       {
@@ -1103,35 +1103,35 @@
         "ticket_id": "t013",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
-        "known_at": 14
-      },
-      {
-        "ticket_id": "t013",
-        "source": "s1",
-        "version": "v1",
         "label": "质量",
         "known_at": 14
       },
       {
         "ticket_id": "t013",
-        "source": "s2",
+        "source": "s1",
         "version": "v1",
         "label": "质量",
         "known_at": 14
       },
       {
         "ticket_id": "t013",
+        "source": "s2",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 14
+      },
+      {
+        "ticket_id": "t013",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 14
       },
       {
         "ticket_id": "t013",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 14
       },
       {
@@ -1173,21 +1173,21 @@
         "ticket_id": "t015",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 16
       },
       {
         "ticket_id": "t015",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 16
       },
       {
         "ticket_id": "t015",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 16
       },
       {
@@ -1208,91 +1208,91 @@
         "ticket_id": "t016",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 17
       },
       {
         "ticket_id": "t016",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 17
       },
       {
         "ticket_id": "t016",
         "source": "s2",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 17
       },
       {
         "ticket_id": "t016",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 17
       },
       {
         "ticket_id": "t016",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 17
       },
       {
         "ticket_id": "t017",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 18
       },
       {
         "ticket_id": "t017",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 18
       },
       {
         "ticket_id": "t017",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 18
       },
       {
         "ticket_id": "t017",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 18
       },
       {
         "ticket_id": "t017",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 18
       },
       {
         "ticket_id": "t018",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 19
       },
       {
         "ticket_id": "t018",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 19
       },
       {
         "ticket_id": "t018",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 19
       },
       {
@@ -1334,21 +1334,21 @@
         "ticket_id": "t019",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 20
       },
       {
         "ticket_id": "t019",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 20
       },
       {
         "ticket_id": "t020",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 21
       },
       {
@@ -1362,21 +1362,21 @@
         "ticket_id": "t020",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 21
       },
       {
         "ticket_id": "t020",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 21
       },
       {
         "ticket_id": "t020",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 21
       },
       {
@@ -1418,35 +1418,35 @@
         "ticket_id": "t022",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 23
       },
       {
         "ticket_id": "t022",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 23
       },
       {
         "ticket_id": "t022",
         "source": "s2",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 23
       },
       {
         "ticket_id": "t022",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 23
       },
       {
         "ticket_id": "t022",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 23
       },
       {
@@ -1460,7 +1460,7 @@
         "ticket_id": "t023",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 24
       },
       {
@@ -1488,14 +1488,14 @@
         "ticket_id": "t024",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 25
       },
       {
         "ticket_id": "t024",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 25
       },
       {
@@ -1523,7 +1523,7 @@
         "ticket_id": "t025",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 26
       },
       {
@@ -1537,49 +1537,49 @@
         "ticket_id": "t025",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 26
       },
       {
         "ticket_id": "t025",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 26
       },
       {
         "ticket_id": "t025",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 26
       },
       {
         "ticket_id": "t026",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 27
       },
       {
         "ticket_id": "t026",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 27
       },
       {
         "ticket_id": "t026",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 27
       },
       {
         "ticket_id": "t026",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 27
       },
       {
@@ -1593,7 +1593,7 @@
         "ticket_id": "t027",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 28
       },
       {
@@ -1607,7 +1607,7 @@
         "ticket_id": "t027",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 28
       },
       {
@@ -1663,42 +1663,42 @@
         "ticket_id": "t029",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 30
       },
       {
         "ticket_id": "t029",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 30
       },
       {
         "ticket_id": "t029",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 30
       },
       {
         "ticket_id": "t029",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 30
       },
       {
         "ticket_id": "t029",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 30
       },
       {
         "ticket_id": "t030",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 1
       },
       {
@@ -1712,7 +1712,7 @@
         "ticket_id": "t030",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 1
       },
       {
@@ -1754,63 +1754,63 @@
         "ticket_id": "t031",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 2
       },
       {
         "ticket_id": "t031",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": null,
         "known_at": 2
       },
       {
         "ticket_id": "t032",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 3
       },
       {
         "ticket_id": "t032",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 3
       },
       {
         "ticket_id": "t032",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 3
       },
       {
         "ticket_id": "t032",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 3
       },
       {
         "ticket_id": "t032",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 3
       },
       {
         "ticket_id": "t033",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 4
       },
       {
         "ticket_id": "t033",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 4
       },
       {
@@ -1845,7 +1845,7 @@
         "ticket_id": "t034",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 5
       },
       {
@@ -1943,91 +1943,91 @@
         "ticket_id": "t037",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
-        "known_at": 8
-      },
-      {
-        "ticket_id": "t037",
-        "source": "s1",
-        "version": "v1",
         "label": "质量",
         "known_at": 8
       },
       {
         "ticket_id": "t037",
-        "source": "s2",
+        "source": "s1",
         "version": "v1",
         "label": "质量",
         "known_at": 8
       },
       {
         "ticket_id": "t037",
+        "source": "s2",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 8
+      },
+      {
+        "ticket_id": "t037",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 8
       },
       {
         "ticket_id": "t037",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": null,
         "known_at": 8
       },
       {
         "ticket_id": "t038",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 9
       },
       {
         "ticket_id": "t038",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 9
       },
       {
         "ticket_id": "t038",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 9
       },
       {
         "ticket_id": "t038",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 9
       },
       {
         "ticket_id": "t038",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 9
       },
       {
         "ticket_id": "t039",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 10
       },
       {
         "ticket_id": "t039",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 10
       },
       {
         "ticket_id": "t039",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 10
       },
       {
@@ -2048,35 +2048,35 @@
         "ticket_id": "t040",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 11
       },
       {
         "ticket_id": "t040",
         "source": "s1",
-        "version": "v1",
-        "label": "描述不符",
-        "known_at": 11
-      },
-      {
-        "ticket_id": "t040",
-        "source": "s2",
         "version": "v1",
         "label": "质量",
         "known_at": 11
       },
       {
         "ticket_id": "t040",
+        "source": "s2",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 11
+      },
+      {
+        "ticket_id": "t040",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 11
       },
       {
         "ticket_id": "t040",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 11
       },
       {
@@ -2090,28 +2090,28 @@
         "ticket_id": "t041",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 12
       },
       {
         "ticket_id": "t041",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 12
       },
       {
         "ticket_id": "t041",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 12
       },
       {
         "ticket_id": "t041",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 12
       },
       {
@@ -2174,14 +2174,14 @@
         "ticket_id": "t043",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 14
       },
       {
         "ticket_id": "t043",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 14
       },
       {
@@ -2223,21 +2223,21 @@
         "ticket_id": "t045",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "描述不符",
         "known_at": 16
       },
       {
         "ticket_id": "t045",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "描述不符",
         "known_at": 16
       },
       {
         "ticket_id": "t045",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "描述不符",
         "known_at": 16
       },
       {
@@ -2272,18 +2272,18 @@
         "ticket_id": "t046",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
-        "known_at": 17
-      },
-      {
-        "ticket_id": "t046",
-        "source": "s3",
-        "version": "v1",
         "label": "物流",
         "known_at": 17
       },
       {
         "ticket_id": "t046",
+        "source": "s3",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 17
+      },
+      {
+        "ticket_id": "t046",
         "source": "s4",
         "version": "v1",
         "label": "质量",
@@ -2293,35 +2293,35 @@
         "ticket_id": "t047",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 18
       },
       {
         "ticket_id": "t047",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 18
       },
       {
         "ticket_id": "t047",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 18
       },
       {
         "ticket_id": "t047",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 18
       },
       {
         "ticket_id": "t047",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 18
       },
       {
@@ -2398,42 +2398,42 @@
         "ticket_id": "t050",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 21
       },
       {
         "ticket_id": "t050",
         "source": "s1",
-        "version": "v1",
-        "label": "描述不符",
-        "known_at": 21
-      },
-      {
-        "ticket_id": "t050",
-        "source": "s2",
         "version": "v1",
         "label": "质量",
         "known_at": 21
       },
       {
         "ticket_id": "t050",
+        "source": "s2",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 21
+      },
+      {
+        "ticket_id": "t050",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 21
       },
       {
         "ticket_id": "t050",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 21
       },
       {
         "ticket_id": "t051",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 22
       },
       {
@@ -2447,7 +2447,7 @@
         "ticket_id": "t051",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 22
       },
       {
@@ -2468,91 +2468,91 @@
         "ticket_id": "t052",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 23
       },
       {
         "ticket_id": "t052",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 23
       },
       {
         "ticket_id": "t052",
         "source": "s2",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 23
       },
       {
         "ticket_id": "t052",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 23
       },
       {
         "ticket_id": "t052",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 23
       },
       {
         "ticket_id": "t053",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 24
       },
       {
         "ticket_id": "t053",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 24
       },
       {
         "ticket_id": "t053",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 24
       },
       {
         "ticket_id": "t053",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 24
       },
       {
         "ticket_id": "t053",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 24
       },
       {
         "ticket_id": "t054",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 25
       },
       {
         "ticket_id": "t054",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 25
       },
       {
         "ticket_id": "t054",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 25
       },
       {
@@ -2594,14 +2594,14 @@
         "ticket_id": "t055",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 26
       },
       {
         "ticket_id": "t055",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 26
       },
       {
@@ -2685,7 +2685,7 @@
         "ticket_id": "t058",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 29
       },
       {
@@ -2699,7 +2699,7 @@
         "ticket_id": "t058",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 29
       },
       {
@@ -2713,35 +2713,35 @@
         "ticket_id": "t059",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 30
       },
       {
         "ticket_id": "t059",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 30
       },
       {
         "ticket_id": "t059",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 30
       },
       {
         "ticket_id": "t059",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 30
       },
       {
         "ticket_id": "t059",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 30
       },
       {
@@ -2755,7 +2755,7 @@
         "ticket_id": "t060",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 1
       },
       {
@@ -2783,70 +2783,70 @@
         "ticket_id": "t061",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 2
       },
       {
         "ticket_id": "t061",
         "source": "s1",
-        "version": "v1",
-        "label": "质量",
-        "known_at": 2
-      },
-      {
-        "ticket_id": "t061",
-        "source": "s2",
         "version": "v1",
         "label": "物流",
         "known_at": 2
       },
       {
         "ticket_id": "t061",
-        "source": "s3",
+        "source": "s2",
         "version": "v1",
         "label": "质量",
         "known_at": 2
       },
       {
         "ticket_id": "t061",
+        "source": "s3",
+        "version": "v1",
+        "label": null,
+        "known_at": 2
+      },
+      {
+        "ticket_id": "t061",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 2
       },
       {
         "ticket_id": "t062",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 3
       },
       {
         "ticket_id": "t062",
         "source": "s1",
-        "version": "v1",
-        "label": "描述不符",
-        "known_at": 3
-      },
-      {
-        "ticket_id": "t062",
-        "source": "s2",
-        "version": "v1",
-        "label": "描述不符",
-        "known_at": 3
-      },
-      {
-        "ticket_id": "t062",
-        "source": "s3",
         "version": "v1",
         "label": "质量",
         "known_at": 3
       },
       {
         "ticket_id": "t062",
+        "source": "s2",
+        "version": "v1",
+        "label": "质量",
+        "known_at": 3
+      },
+      {
+        "ticket_id": "t062",
+        "source": "s3",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 3
+      },
+      {
+        "ticket_id": "t062",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 3
       },
       {
@@ -2888,91 +2888,91 @@
         "ticket_id": "t064",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
-        "known_at": 5
-      },
-      {
-        "ticket_id": "t064",
-        "source": "s1",
-        "version": "v1",
         "label": "质量",
         "known_at": 5
       },
       {
         "ticket_id": "t064",
-        "source": "s2",
+        "source": "s1",
         "version": "v1",
         "label": "质量",
         "known_at": 5
       },
       {
         "ticket_id": "t064",
+        "source": "s2",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 5
+      },
+      {
+        "ticket_id": "t064",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 5
       },
       {
         "ticket_id": "t064",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 5
       },
       {
         "ticket_id": "t065",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 6
       },
       {
         "ticket_id": "t065",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 6
       },
       {
         "ticket_id": "t065",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 6
       },
       {
         "ticket_id": "t065",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 6
       },
       {
         "ticket_id": "t065",
         "source": "s4",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 6
       },
       {
         "ticket_id": "t066",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "描述不符",
         "known_at": 7
       },
       {
         "ticket_id": "t066",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "描述不符",
         "known_at": 7
       },
       {
         "ticket_id": "t066",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "描述不符",
         "known_at": 7
       },
       {
@@ -2993,63 +2993,63 @@
         "ticket_id": "t067",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 8
       },
       {
         "ticket_id": "t067",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 8
       },
       {
         "ticket_id": "t067",
         "source": "s2",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 8
       },
       {
         "ticket_id": "t067",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 8
       },
       {
         "ticket_id": "t067",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 8
       },
       {
         "ticket_id": "t068",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 9
       },
       {
         "ticket_id": "t068",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 9
       },
       {
         "ticket_id": "t068",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 9
       },
       {
         "ticket_id": "t068",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 9
       },
       {
@@ -3133,28 +3133,28 @@
         "ticket_id": "t071",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 12
       },
       {
         "ticket_id": "t071",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 12
       },
       {
         "ticket_id": "t071",
         "source": "s2",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 12
       },
       {
         "ticket_id": "t071",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 12
       },
       {
@@ -3203,49 +3203,49 @@
         "ticket_id": "t073",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
-        "known_at": 14
-      },
-      {
-        "ticket_id": "t073",
-        "source": "s1",
-        "version": "v1",
         "label": "质量",
         "known_at": 14
       },
       {
         "ticket_id": "t073",
-        "source": "s2",
+        "source": "s1",
         "version": "v1",
         "label": "质量",
         "known_at": 14
       },
       {
         "ticket_id": "t073",
-        "source": "s3",
+        "source": "s2",
         "version": "v1",
         "label": "物流",
         "known_at": 14
       },
       {
         "ticket_id": "t073",
+        "source": "s3",
+        "version": "v1",
+        "label": null,
+        "known_at": 14
+      },
+      {
+        "ticket_id": "t073",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 14
       },
       {
         "ticket_id": "t074",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 15
       },
       {
         "ticket_id": "t074",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 15
       },
       {
@@ -3259,7 +3259,7 @@
         "ticket_id": "t074",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 15
       },
       {
@@ -3273,21 +3273,21 @@
         "ticket_id": "t075",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 16
       },
       {
         "ticket_id": "t075",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 16
       },
       {
         "ticket_id": "t075",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 16
       },
       {
@@ -3308,35 +3308,35 @@
         "ticket_id": "t076",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 17
       },
       {
         "ticket_id": "t076",
         "source": "s1",
-        "version": "v1",
-        "label": "描述不符",
-        "known_at": 17
-      },
-      {
-        "ticket_id": "t076",
-        "source": "s2",
         "version": "v1",
         "label": "质量",
         "known_at": 17
       },
       {
         "ticket_id": "t076",
+        "source": "s2",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 17
+      },
+      {
+        "ticket_id": "t076",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 17
       },
       {
         "ticket_id": "t076",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 17
       },
       {
@@ -3378,21 +3378,21 @@
         "ticket_id": "t078",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 19
       },
       {
         "ticket_id": "t078",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 19
       },
       {
         "ticket_id": "t078",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 19
       },
       {
@@ -3420,63 +3420,63 @@
         "ticket_id": "t079",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
-        "known_at": 20
-      },
-      {
-        "ticket_id": "t079",
-        "source": "s2",
-        "version": "v1",
         "label": "质量",
         "known_at": 20
       },
       {
         "ticket_id": "t079",
+        "source": "s2",
+        "version": "v1",
+        "label": "质量",
+        "known_at": 20
+      },
+      {
+        "ticket_id": "t079",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": null,
         "known_at": 20
       },
       {
         "ticket_id": "t079",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 20
       },
       {
         "ticket_id": "t080",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 21
       },
       {
         "ticket_id": "t080",
         "source": "s1",
-        "version": "v1",
-        "label": "描述不符",
-        "known_at": 21
-      },
-      {
-        "ticket_id": "t080",
-        "source": "s2",
-        "version": "v1",
-        "label": "描述不符",
-        "known_at": 21
-      },
-      {
-        "ticket_id": "t080",
-        "source": "s3",
         "version": "v1",
         "label": "物流",
         "known_at": 21
       },
       {
         "ticket_id": "t080",
+        "source": "s2",
+        "version": "v1",
+        "label": "物流",
+        "known_at": 21
+      },
+      {
+        "ticket_id": "t080",
+        "source": "s3",
+        "version": "v1",
+        "label": "质量",
+        "known_at": 21
+      },
+      {
+        "ticket_id": "t080",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "物流",
         "known_at": 21
       },
       {
@@ -3553,14 +3553,14 @@
         "ticket_id": "t083",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 24
       },
       {
         "ticket_id": "t083",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 24
       },
       {
@@ -3574,14 +3574,14 @@
         "ticket_id": "t083",
         "source": "s3",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 24
       },
       {
         "ticket_id": "t083",
         "source": "s4",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 24
       },
       {
@@ -3623,7 +3623,7 @@
         "ticket_id": "t085",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 26
       },
       {
@@ -3637,35 +3637,35 @@
         "ticket_id": "t085",
         "source": "s2",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 26
       },
       {
         "ticket_id": "t085",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": null,
         "known_at": 26
       },
       {
         "ticket_id": "t085",
         "source": "s4",
         "version": "v1",
-        "label": "物流",
+        "label": null,
         "known_at": 26
       },
       {
         "ticket_id": "t086",
         "source": "s0",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 27
       },
       {
         "ticket_id": "t086",
         "source": "s1",
         "version": "v1",
-        "label": "描述不符",
+        "label": "质量",
         "known_at": 27
       },
       {
@@ -3679,35 +3679,35 @@
         "ticket_id": "t086",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 27
       },
       {
         "ticket_id": "t086",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "物流",
         "known_at": 27
       },
       {
         "ticket_id": "t087",
         "source": "s0",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 28
       },
       {
         "ticket_id": "t087",
         "source": "s1",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 28
       },
       {
         "ticket_id": "t087",
         "source": "s2",
         "version": "v1",
-        "label": "物流",
+        "label": "质量",
         "known_at": 28
       },
       {
@@ -3728,35 +3728,35 @@
         "ticket_id": "t088",
         "source": "s0",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 29
       },
       {
         "ticket_id": "t088",
         "source": "s1",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 29
       },
       {
         "ticket_id": "t088",
         "source": "s2",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 29
       },
       {
         "ticket_id": "t088",
         "source": "s3",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 29
       },
       {
         "ticket_id": "t088",
         "source": "s4",
         "version": "v1",
-        "label": "质量",
+        "label": "描述不符",
         "known_at": 29
       },
       {
@@ -3843,17 +3843,17 @@
     "gold": [
       {
         "ticket_id": "t000",
-        "label": "物流",
+        "label": "描述不符",
         "reviewed_at": 2
       },
       {
         "ticket_id": "t004",
-        "label": "质量",
+        "label": "物流",
         "reviewed_at": 6
       },
       {
         "ticket_id": "t008",
-        "label": "描述不符",
+        "label": "物流",
         "reviewed_at": 10
       },
       {
@@ -3863,12 +3863,12 @@
       },
       {
         "ticket_id": "t016",
-        "label": "质量",
+        "label": "物流",
         "reviewed_at": 18
       },
       {
         "ticket_id": "t020",
-        "label": "描述不符",
+        "label": "物流",
         "reviewed_at": 22
       },
       {
@@ -3878,12 +3878,12 @@
       },
       {
         "ticket_id": "t028",
-        "label": "质量",
+        "label": "物流",
         "reviewed_at": 30
       },
       {
         "ticket_id": "t032",
-        "label": "描述不符",
+        "label": "物流",
         "reviewed_at": 4
       },
       {
@@ -3893,7 +3893,7 @@
       },
       {
         "ticket_id": "t040",
-        "label": "质量",
+        "label": "物流",
         "reviewed_at": 12
       },
       {
@@ -3908,12 +3908,12 @@
       },
       {
         "ticket_id": "t052",
-        "label": "质量",
+        "label": "物流",
         "reviewed_at": 24
       },
       {
         "ticket_id": "t056",
-        "label": "描述不符",
+        "label": "物流",
         "reviewed_at": 28
       },
       {
@@ -3923,12 +3923,12 @@
       },
       {
         "ticket_id": "t064",
-        "label": "质量",
+        "label": "物流",
         "reviewed_at": 6
       },
       {
         "ticket_id": "t068",
-        "label": "描述不符",
+        "label": "物流",
         "reviewed_at": 10
       },
       {
@@ -3938,12 +3938,12 @@
       },
       {
         "ticket_id": "t076",
-        "label": "质量",
+        "label": "物流",
         "reviewed_at": 18
       },
       {
         "ticket_id": "t080",
-        "label": "描述不符",
+        "label": "物流",
         "reviewed_at": 22
       },
       {
@@ -3953,7 +3953,7 @@
       },
       {
         "ticket_id": "t088",
-        "label": "质量",
+        "label": "描述不符",
         "reviewed_at": 30
       }
     ]
