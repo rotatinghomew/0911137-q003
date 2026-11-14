@@ -7,6 +7,15 @@
 <form id="filters"><label>分析时点 <input name="cutoff" type="number" required></label><label>业务范围 <select name="group"></select></label><button type="submit">更新分析</button></form>
 <p id="status" role="status">正在读取资料</p>
 <section aria-label="当前分析"><h2>当前资料摘要</h2><dl id="summary"></dl><ul id="notes"></ul><p id="digest"></p><div id="results" class="scroll"></div></section>
+<section aria-label="原因识别"><h2>原因识别版本</h2>
+<p class="hint">训练与验证使用当前筛选的分析时点与业务范围；同一售后事件的重复来件只落在训练或验证一侧。候选方案按原因分列，便于看出减少逐单阅读时是否仍漏掉少见原因。</p>
+<form id="train"><label>版本名称 <input name="name" required maxlength="100"></label><button type="submit">训练并验证</button></form>
+<div id="validation"></div>
+<h3>已保存版本</h3><ul id="releases"></ul></section>
+<section aria-label="新工单建议"><h2>新工单建议</h2>
+<p class="hint">建议按当前发布版本生成；已生成的解释随工单保存，不随后续版本改写。不确定或来源互相依赖的工单留给人工。</p>
+<button id="suggest" type="button">生成新工单建议</button>
+<dl id="suggest-summary"></dl><ul id="suggest-notes"></ul><div id="suggestions" class="scroll"></div></section>
 <section aria-label="保存的分析"><h2>分析版本</h2><form id="save"><label>版本名称 <input name="title" required maxlength="100" value="经营讨论"></label><button type="submit">保存当前分析</button></form><ul id="history"></ul></section>
 <section aria-label="原始资料"><h2>资料查阅</h2><label>资料表 <select id="tables"></select></label><button id="source" type="button">查看资料</button><div id="raw" class="scroll"></div></section>
 </main><script src="/app.js" defer></script>

@@ -51,6 +51,15 @@ def main():
                 assert page.locator('#filters select').input_value() == catalog['groups'][0]
                 page.get_by_role('button', name='查看资料').click()
                 page.wait_for_selector('#raw tbody tr')
+                page.locator('#train input').fill('浏览器验证版本')
+                page.get_by_role('button', name='训练并验证').click()
+                page.wait_for_selector('#validation table')
+                assert page.locator('#validation .scheme').count() == 3
+                page.locator('#releases li').first.get_by_role('button', name='发布').click()
+                page.wait_for_function("document.querySelector('#status').textContent.includes('已发布')")
+                page.get_by_role('button', name='生成新工单建议').click()
+                page.wait_for_selector('#suggestions tbody tr')
+                assert page.locator('#releases mark').count() == 1
                 assert not errors, errors
                 print(json.dumps({'结果': '通过', '页面错误': errors, '保存范围': page.locator('#filters select').input_value()}, ensure_ascii=False))
                 browser.close()
